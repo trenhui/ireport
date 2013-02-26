@@ -1,0 +1,168 @@
+2013-02-24 17:34:13,401 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 17:34:14,174 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 17:37:13,397 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 17:37:14,180 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 17:40:13,403 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 17:40:14,185 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 17:43:13,409 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 17:43:14,191 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 17:46:13,415 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 17:46:14,201 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 17:49:13,420 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 17:49:14,202 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 17:52:13,427 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 17:52:14,209 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 17:55:13,432 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 17:55:14,214 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 17:58:13,437 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 17:58:14,219 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:01:13,443 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:01:14,225 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:04:13,449 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:04:14,231 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:07:13,457 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:07:14,237 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:10:13,460 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:10:14,242 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:13:13,467 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:13:14,249 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:16:13,472 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:16:14,254 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:19:13,479 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:19:14,259 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:22:13,485 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:22:14,266 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:25:13,489 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:25:14,271 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:28:13,495 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:28:14,277 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:31:13,500 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:31:14,282 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:34:13,507 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:34:14,469 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:37:13,512 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:37:14,294 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:40:13,518 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:40:14,299 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:43:13,524 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:43:14,306 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:46:13,529 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:46:14,312 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:49:13,535 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:49:14,317 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:52:13,540 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:52:14,322 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:55:13,546 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:55:14,328 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 18:58:13,552 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 18:58:14,334 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:01:13,557 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:01:14,339 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:04:13,564 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:04:14,347 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:07:13,569 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:07:14,351 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:10:13,575 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:10:14,357 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:13:13,579 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:13:14,365 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:16:13,586 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:16:14,369 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:19:13,602 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:19:14,374 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:22:13,598 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:22:14,381 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:25:13,608 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:25:14,386 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:28:13,609 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:28:14,391 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:31:13,617 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:31:14,398 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:34:13,620 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:34:14,402 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:36:21,048 [clusterQuartzScheduler_Worker-1] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 19:37:13,627 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:37:14,409 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:41:40,007 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:41:40,787 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:42:50,277 [clusterQuartzScheduler_Worker-1] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 19:44:39,993 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:44:40,786 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:47:27,721 [clusterQuartzScheduler_Worker-2] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 19:47:39,999 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:47:40,792 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:50:40,005 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:50:40,798 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:53:40,012 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:53:40,811 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:54:28,289 [clusterQuartzScheduler_Worker-3] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 19:56:40,028 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:56:40,809 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 19:58:38,521 [clusterQuartzScheduler_Worker-4] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 19:59:40,028 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 19:59:40,815 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:02:34,744 [clusterQuartzScheduler_Worker-5] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 20:02:40,051 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:02:41,072 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:05:40,033 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:05:40,826 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:06:49,179 [clusterQuartzScheduler_Worker-1] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 20:08:40,039 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:08:40,831 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:11:40,045 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:11:40,838 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:11:49,157 [clusterQuartzScheduler_Worker-2] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 20:14:40,051 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:14:40,843 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:16:49,174 [clusterQuartzScheduler_Worker-3] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 20:17:40,056 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:17:40,855 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:20:40,062 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:20:40,855 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:21:49,157 [clusterQuartzScheduler_Worker-4] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 20:23:40,068 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:23:40,861 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:26:40,073 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:26:40,866 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:26:49,181 [clusterQuartzScheduler_Worker-5] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 20:29:40,079 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:29:40,871 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:31:49,183 [clusterQuartzScheduler_Worker-1] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 20:32:40,089 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:32:40,878 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:35:40,091 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:35:40,883 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:36:49,150 [clusterQuartzScheduler_Worker-2] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 20:38:40,095 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:38:40,888 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:41:40,102 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:41:40,896 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:41:49,145 [clusterQuartzScheduler_Worker-3] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 20:44:40,108 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:44:40,901 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:46:49,219 [clusterQuartzScheduler_Worker-4] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 20:47:40,113 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:47:40,906 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:50:40,120 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:50:40,912 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:51:49,152 [clusterQuartzScheduler_Worker-5] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 20:53:40,132 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:53:40,918 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:56:40,130 [springScheduler-1] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:56:40,923 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 20:56:49,153 [clusterQuartzScheduler_Worker-1] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 20:59:40,136 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 20:59:40,929 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 21:01:49,235 [clusterQuartzScheduler_Worker-2] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 21:02:40,142 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 21:02:40,935 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 21:05:40,148 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 21:05:40,940 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 21:06:49,138 [clusterQuartzScheduler_Worker-3] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 21:08:40,153 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 21:08:40,946 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 21:11:40,160 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 21:11:40,952 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
+2013-02-24 21:11:49,156 [clusterQuartzScheduler_Worker-4] INFO  [com.agileEAP.ireport.schedule.QuartzClusterableJob] - There are 3 user in database, printed by quartz cluster job on node default.
+2013-02-24 21:14:40,165 [springScheduler-2] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by spring timer job by xml.
+2013-02-24 21:14:40,958 [JdkTimerJob-0] INFO  [com.agileEAP.ireport.schedule.UserCountScanner] - There are 100 user in database, printed by jdk timer job.
